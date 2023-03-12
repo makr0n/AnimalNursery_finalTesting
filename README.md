@@ -42,7 +42,7 @@
       $ sudo apt install mysql-server mysql-client
       $ systemctl status mysql.service
    ```
-   ![3_1.png](img/3_1.png)
+   ![3_1.png](img/3_1.PNG)
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
@@ -57,11 +57,11 @@
    а в класс вьючные животные войдут: Лошади, верблюды и ослы).
    #### Диаграмма классов.   
 
-   ![ClassDiagram.jpg](img/ClassDiagram.jpg)
+   ![ClassDiagram.jpg](img/ClassDiagram.JPG)
    
    #### ERD - диаграмма
 
-   ![ERD.jpg](img/ERD.jpg)
+   ![ERD.jpg](img/ERD.JPG)
    
 6. В подключенном MySQL репозитории создать базу данных “Друзья человека”
 
