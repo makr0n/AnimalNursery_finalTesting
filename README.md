@@ -10,7 +10,7 @@
         $ cat > pack_animals.txt
         $ cat pets.txt pack_animals.txt > all_together.txt
     ```
-    ![1.png](img/1.png)
+    ![1.png](img/1.PNG)
     
     Просмотреть содержимое созданного файла.
     Переименовать файл, дав ему новое имя (Друзья человека).
@@ -20,7 +20,7 @@
         $ mv all_animals.txt human_friends.txt
     ```
     
-    ![2.png](img/2.png)
+    ![2.png](img/2.PNG)
 
 2. Создать директорию, переместить файл туда
     ```shell
